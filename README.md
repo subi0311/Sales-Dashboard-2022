@@ -26,7 +26,7 @@ The data used for this dashboard is structured across three CSV files:
 ## 📷 Dashboard Preview
 
 >![image alt](https://github.com/subi0311/Sales-Dashboard-2022/blob/main/Screenshot%202025-03-03%20191313.png?raw=true)
->![image alt]()
+>![image alt](https://github.com/subi0311/Sales-Dashboard-2022/blob/main/Screenshot%202025-03-03%20191331.png?raw=true)
 
 ## 🛠 Features
 
